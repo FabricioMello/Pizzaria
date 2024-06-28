@@ -1,4 +1,4 @@
-# Pizzaria .NET Core 8
+# Pizzaria .NET 8
 
 Este é um projeto de exemplo de uma API para uma Pizzaria, desenvolvido com .NET Core 8. A API permite realizar pedidos de pizza, especificar sabores e fornecer o endereço de entrega.
 
